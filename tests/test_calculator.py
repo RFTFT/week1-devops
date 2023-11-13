@@ -8,6 +8,5 @@ def test_sub():
 
 def test_mul():
     assert mul(1,1) == 1
-
 def test_div():
     assert div(2,1) == 2
